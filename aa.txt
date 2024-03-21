@@ -1,0 +1,16 @@
+   <h3> Working Expriences:
+    <h3>Hunter College -Teaching Assistant</h3>h3>
+        <h5>Helping Profeesor host coding review sections and tutoring sections </h5>
+    <h3> Google Software Enginner Program
+
+    
+
+        <h3> Working Expriences:</h3>
+    <ul>
+        <h4>
+            <li>Hunter College -Teaching Assistant </li>
+            Helping Profeesor host coding review sections and tutoring sections.
+            <li>Google Software Enginner Program</li>
+            Conduct weekly algorithm exercises and mock interviews with Google software engineers, and look for attempts to improve algorithms and other solutions.
+        </h4>
+    </ul>
